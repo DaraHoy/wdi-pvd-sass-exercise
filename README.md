@@ -14,6 +14,7 @@ Now that you know the basics of Sass and how it helps you write CSS in a more fu
  - Install sass on your computer (using NPM or Ruby - info in the sass guide under "libsass" tab) 
   - this is an intro into package management and the command line - take the time to work through issues and get more familiar with the command line.
  - Write a new file, `style.scss`, and compile that file into `style.css`
+ - Make sure your index.html file has access to your styles. As a best practice for real world projects, there should not be any css written within the style tags of index.html. Instead, all styles should be in your external stylesheet.
 
 
 ### Requirements:
